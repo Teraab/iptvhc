@@ -1,34 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <script>(function (s) { s.dataset.zone = '10408286', s.src = 'https://al5sm.com/tag.min.js' })([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+    <script>(function(s){s.dataset.zone='10408286',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#0a0a0a">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Iptv Tv web</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jwplayer.com/libraries/IDzF9Zmk.js"></script>
-
+    
     <style>
-        {
-            scroll-behavior: smooth;
-        }
-
-        * {
-            -webkit-tap-highlight-color: transparent;
-        }
-
-        body {
-            touch-action: manipulation;
-        }
-
         :root {
             --primary: #8a2be2;
             --primary-dark: #6a1cb8;
@@ -59,14 +41,6 @@
             color: var(--light);
             min-height: 100vh;
             overflow-x: hidden;
-            overflow-y: auto;
-        }
-
-        /* Lock scroll on mobile/TV layout */
-        @media (max-width: 992px) {
-            body {
-                overflow: hidden;
-            }
         }
 
         .main-header {
@@ -186,26 +160,27 @@
         }
 
         .player-section {
-            flex: 1.8;
+            flex: 1.5;
             display: flex;
             flex-direction: column;
-            background: rgba(0, 0, 0, 0.9);
+            background: rgba(0, 0, 0, 0.7);
             border-radius: var(--radius);
             overflow: hidden;
             box-shadow: var(--shadow);
+            min-width: 0;
         }
 
-        .player-wrap {
+        .player-container {
             width: 100%;
-            aspect-ratio: 16/9;
-            background: #000;
+            position: relative;
+            flex: 1;
         }
 
         .player-wrap {
             width: 100%;
             height: 100%;
             position: relative;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.7);
             border-radius: var(--radius);
             overflow: hidden;
             background: #000;
@@ -353,13 +328,6 @@
             background: linear-gradient(to right, var(--primary), var(--secondary));
         }
 
-        .channel-card.tv-focus {
-            outline: 3px solid var(--secondary);
-            transform: scale(1.08);
-            box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
-            border-color: var(--secondary);
-        }
-
         .channel-logo {
             width: 100%;
             height: 120px;
@@ -458,9 +426,7 @@
         }
 
         @keyframes spin {
-            to {
-                transform: rotate(360deg);
-            }
+            to { transform: rotate(360deg); }
         }
 
         .empty-state {
@@ -502,7 +468,7 @@
             color: var(--light);
         }
 
-
+        
         /* Splash Screen */
         .splash-screen {
             position: fixed;
@@ -537,7 +503,6 @@
                 opacity: 0;
                 transform: translateY(30px);
             }
-
             to {
                 opacity: 1;
                 transform: translateY(0);
@@ -557,12 +522,9 @@
         }
 
         @keyframes pulse {
-
-            0%,
-            100% {
+            0%, 100% {
                 transform: scale(1);
             }
-
             50% {
                 transform: scale(1.1);
             }
@@ -693,12 +655,12 @@
             opacity: 0;
             transform: translateY(10px);
         }
-
+        
         .skip-button.show {
             display: inline-flex;
             animation: skipButtonAppear 0.5s ease-out forwards;
         }
-
+        
         @keyframes skipButtonAppear {
             to {
                 opacity: 1;
@@ -760,7 +722,7 @@
             .channels-section {
                 width: 450px;
             }
-
+            
             .channels-grid {
                 grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
             }
@@ -769,15 +731,15 @@
         @media (max-width: 992px) {
             .main-container {
                 flex-direction: column;
-                height: calc(100vh - 75px);
-                overflow: hidden;
+                height: auto;
+                min-height: calc(100vh - 75px);
                 padding: 15px;
                 gap: 15px;
             }
-
+            
             .player-section {
-                position: relative;
-                top: auto;
+                position: sticky;
+                top: 75px;
                 z-index: 5;
                 width: 100%;
                 height: 45vh;
@@ -785,18 +747,17 @@
                 flex-shrink: 0;
                 border-radius: var(--radius);
             }
-
+            
             .channels-section {
                 width: 100%;
-                height: calc(100% - 45vh - 30px);
+                height: 50vh;
                 flex-grow: 1;
-                min-height: 200px;
             }
-
+            
             .channels-grid {
                 grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
             }
-
+            
             .search-container {
                 max-width: 350px;
             }
@@ -807,134 +768,125 @@
                 flex-wrap: wrap;
                 padding: 12px 15px;
             }
-
+            
             .logo-container {
                 order: 1;
                 width: 100%;
                 margin-bottom: 10px;
                 justify-content: center;
             }
-
+            
             .search-container {
                 order: 3;
                 max-width: 100%;
                 margin: 10px 0;
             }
-
+            
             .user-controls {
                 order: 2;
                 width: 100%;
                 justify-content: space-between;
             }
-
+            
             .channels-grid {
                 grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
                 gap: 12px;
             }
-
+            
             .section-title h2 {
                 font-size: 1.2rem;
             }
-
+            
             .player-section {
                 height: 40vh;
                 min-height: 250px;
             }
-
+            
             .channels-section {
                 height: 50vh;
             }
         }
 
         @media (max-width: 576px) {
-
-            .main-header {
-                padding: 8px 10px;
+            .main-container {
+                padding: 10px;
+                gap: 10px;
             }
-
+            
             .player-section {
-                height: 32vh;
-                min-height: 200px;
+                height: 35vh;
+                min-height: 220px;
             }
-
+            
+            .channels-section {
+                height: 55vh;
+            }
+            
             .channels-grid {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+                gap: 10px;
             }
-
+            
             .channel-logo {
-                height: 80px;
+                height: 100px;
+                padding: 15px;
             }
-
+            
+            .channel-info {
+                padding: 12px;
+            }
+            
             .channel-title {
-                font-size: 0.85rem;
+                font-size: 0.9rem;
             }
-
+            
             .category-select {
-                font-size: 0.8rem;
+                min-width: 140px;
+                font-size: 0.85rem;
+                padding: 8px 12px;
             }
-        }
-
-        .search-box {
-            padding: 10px 15px;
-            font-size: 0.9rem;
-        }
-
-        .logo-text {
-            font-size: 1.3rem;
+            
+            .search-box {
+                padding: 10px 15px;
+                font-size: 0.9rem;
+            }
+            
+            .logo-text {
+                font-size: 1.3rem;
+            }
         }
 
         @media (max-width: 480px) {
             .channels-grid {
                 grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
             }
-
+            
             .channel-logo {
                 height: 90px;
             }
-
+            
             .section-header {
                 padding: 15px;
             }
-
+            
             .channels-container {
                 padding: 15px;
             }
-
+            
             .player-section {
                 min-height: 200px;
             }
-
+            
             .now-playing {
                 padding: 12px 15px;
             }
-
+            
             .channel-name {
                 font-size: 1.1rem;
             }
-
-            @media (min-width: 1600px) {
-                .channels-grid {
-                    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-                }
-
-                .channel-logo {
-                    height: 160px;
-                }
-
-                .channel-title {
-                    font-size: 1.1rem;
-                }
-
-                .player-section {
-                    height: 70vh;
-                }
-            }
-
-
         }
     </style>
 </head>
-
 <body>
     <!-- Splash Screen -->
     <div class="splash-screen" id="splashScreen">
@@ -944,10 +896,9 @@
             </div>
             <h1 class="splash-title">IPTV WEB</h1>
             <p class="splash-subtitle">Join our community for updates & support</p>
-
+            
             <div class="social-buttons">
-                <a href="https://whatsapp.com/channel/0029Vb7cjOfBVJlB5lnxNr1Q" class="social-btn whatsapp-btn"
-                    target="_blank">
+                <a href="https://whatsapp.com/channel/0029Vb7cjOfBVJlB5lnxNr1Q" class="social-btn whatsapp-btn" target="_blank">
                     <i class="fab fa-whatsapp"></i>
                     <span>Join WhatsApp</span>
                 </a>
@@ -956,11 +907,11 @@
                     <span>Join Telegram</span>
                 </a>
             </div>
-
+            
             <div class="splash-timer" id="timerDisplay">
                 Please wait <span class="timer-number" id="timerCount">5</span> seconds...
             </div>
-
+            
             <button class="skip-button" id="skipButton">
                 <i class="fas fa-forward"></i>
                 <span>Skip & Continue</span>
@@ -976,12 +927,12 @@
             </div>
             <div class="logo-text">IPTV WEB</div>
         </div>
-
+        
         <div class="search-container">
             <input type="text" class="search-box" id="searchBox" placeholder="Search channels...">
             <i class="fas fa-search search-icon"></i>
         </div>
-
+        
         <div class="user-controls">
             <div class="select-container">
                 <select class="category-select" id="categoryFilter">
@@ -991,7 +942,7 @@
             </div>
         </div>
     </header>
-
+    
     <div class="main-container">
         <section class="player-section">
             <div class="player-container">
@@ -1001,18 +952,18 @@
                         <h3>Select a Channel to Start Streaming</h3>
                         <p>Click on any channel card to instantly start watching</p>
                     </div>
-
+                    
                     <div id="my-jwplayer" style="display: none;"></div>
                 </div>
             </div>
-
+            
             <div class="now-playing" id="nowPlaying" style="display: none;">
                 <h3><i class="fas fa-broadcast-tower"></i> NOW PLAYING</h3>
                 <div class="channel-name" id="currentChannelName">Channel Name</div>
                 <div class="channel-category" id="currentChannelCategory">Category</div>
             </div>
         </section>
-
+        
         <section class="channels-section">
             <div class="section-header">
                 <div class="section-title">
@@ -1020,7 +971,7 @@
                     <div class="channels-count" id="channelsCount">0 Channels</div>
                 </div>
             </div>
-
+            
             <div class="channels-container">
                 <div class="channels-grid" id="channelGrid">
                     <div class="loading-container">
@@ -1042,22 +993,22 @@
         const placeholderLogo = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"><rect width="100" height="100" fill="%23111111" opacity="0.7"/><text x="50" y="55" text-anchor="middle" fill="%23888888" font-family="Arial" font-size="14">TV</text></svg>';
 
         // DOM Content Loaded Event
-
+        
         // Splash Screen - Timer and Skip Button
         const splashScreen = document.getElementById('splashScreen');
         const skipButton = document.getElementById('skipButton');
         const timerDisplay = document.getElementById('timerDisplay');
         const timerCount = document.getElementById('timerCount');
-
+        
         let countdown = 5;
-
+        
         // Countdown timer
         const timer = setInterval(() => {
             countdown--;
             if (timerCount) {
                 timerCount.textContent = countdown;
             }
-
+            
             if (countdown <= 0) {
                 clearInterval(timer);
                 // Hide timer and show skip button
@@ -1069,7 +1020,7 @@
                 }
             }
         }, 1000);
-
+        
         // Function to hide splash
         function hideSplash() {
             if (splashScreen) {
@@ -1079,12 +1030,12 @@
                 }, 300);
             }
         }
-
+        
         // Skip button click
         if (skipButton) {
             skipButton.addEventListener('click', hideSplash);
         }
-
+        
         // Social buttons - open link but don't hide splash
         const socialButtons = document.querySelectorAll('.social-btn');
         socialButtons.forEach(btn => {
@@ -1094,8 +1045,8 @@
         });
 
 
-        document.addEventListener('DOMContentLoaded', function () {
-
+        document.addEventListener('DOMContentLoaded', function() {
+            
             // Get DOM elements
             const channelGrid = document.getElementById('channelGrid');
             const categoryFilter = document.getElementById('categoryFilter');
@@ -1105,7 +1056,7 @@
             const currentChannelName = document.getElementById('currentChannelName');
             const currentChannelCategory = document.getElementById('currentChannelCategory');
             const channelsCount = document.getElementById('channelsCount');
-
+            
             // Variables
             let allChannels = [];
             let filteredChannels = [];
@@ -1113,7 +1064,7 @@
             let categorySet = new Set();
             let jwPlayer = null;
             let lazyLoadObserver = null;
-
+            
             // Setup Intersection Observer for lazy loading images
             if ('IntersectionObserver' in window) {
                 lazyLoadObserver = new IntersectionObserver(entries => {
@@ -1131,7 +1082,7 @@
                     threshold: 0.01
                 });
             }
-
+            
             // Fetch channels data from JSON
             fetch('xchannels.json')
                 .then(response => {
@@ -1141,13 +1092,13 @@
                 .then(data => {
                     channelGrid.innerHTML = '';
                     const channelsArray = [];
-
+                    
                     // Process channels data
                     for (const category in data) {
                         if (data.hasOwnProperty(category)) {
                             categorySet.add(category);
                             const categoryChannels = data[category];
-
+                            
                             for (let i = 0; i < categoryChannels.length; i++) {
                                 const channel = categoryChannels[i];
                                 channel.category = category;
@@ -1155,10 +1106,10 @@
                             }
                         }
                     }
-
+                    
                     allChannels = channelsArray;
                     filteredChannels = [...allChannels];
-
+                    
                     // Populate category filter dropdown
                     categorySet.forEach(category => {
                         const option = document.createElement('option');
@@ -1166,7 +1117,7 @@
                         option.textContent = category;
                         categoryFilter.appendChild(option);
                     });
-
+                    
                     // Initial render
                     renderChannels();
                     updateChannelCount(allChannels.length);
@@ -1175,7 +1126,7 @@
                     console.error('Error loading channels:', error);
                     showError('Error Loading Channels', 'Unable to load channel data. Please make sure xchannels.json exists.');
                 });
-
+            
             // Get placeholder logo or return actual logo
             function getChannelLogo(channel) {
                 if (!channel.logo || !channel.logo.trim()) {
@@ -1183,101 +1134,101 @@
                 }
                 return channel.logo;
             }
-
+            
             // Render channels with optional filtering
             function renderChannels(categoryFilterValue = '', searchQuery = '') {
                 if (animationFrameId) {
                     cancelAnimationFrame(animationFrameId);
                 }
-
+                
                 animationFrameId = requestAnimationFrame(() => {
                     const startTime = performance.now();
                     let channels = allChannels;
-
+                    
                     // Filter by category
                     if (categoryFilterValue) {
                         channels = channels.filter(ch => ch.category === categoryFilterValue);
                     }
-
+                    
                     // Filter by search query
                     if (searchQuery) {
                         const query = searchQuery.toLowerCase();
-                        channels = channels.filter(ch =>
+                        channels = channels.filter(ch => 
                             ch.name.toLowerCase().includes(query)
                         );
                     }
-
+                    
                     filteredChannels = channels;
                     channelGrid.innerHTML = '';
-
+                    
                     // Show empty state if no results
                     if (channels.length === 0) {
                         showEmptyState();
                         updateChannelCount(0);
                         return;
                     }
-
+                    
                     // Create document fragment for better performance
                     const fragment = document.createDocumentFragment();
-
+                    
                     // Render channels in batches for performance
                     const batchSize = Math.min(50, channels.length);
                     for (let i = 0; i < batchSize; i++) {
                         const channel = channels[i];
                         const channelCard = createChannelCard(channel);
                         fragment.appendChild(channelCard);
-
+                        
                         // Break if taking too long (>16ms for 60fps)
                         if (performance.now() - startTime > 16) break;
                     }
-
+                    
                     channelGrid.appendChild(fragment);
                     updateChannelCount(channels.length);
-
+                    
                     // Load remaining channels asynchronously
                     if (channels.length > batchSize) {
                         setTimeout(() => {
                             loadRemainingChannels(channels, batchSize);
                         }, 100);
                     }
-
+                    
                     animationFrameId = null;
                 });
             }
-
+            
             // Load remaining channels in batches
             function loadRemainingChannels(channels, startIndex) {
                 if (startIndex >= channels.length) return;
-
+                
                 const fragment = document.createDocumentFragment();
                 const endIndex = Math.min(startIndex + 50, channels.length);
-
+                
                 for (let i = startIndex; i < endIndex; i++) {
                     const channelCard = createChannelCard(channels[i]);
                     fragment.appendChild(channelCard);
                 }
-
+                
                 channelGrid.appendChild(fragment);
-
+                
                 if (endIndex < channels.length) {
                     setTimeout(() => {
                         loadRemainingChannels(channels, endIndex);
                     }, 50);
                 }
             }
-
+            
             // Create individual channel card element
             function createChannelCard(channel) {
                 const card = document.createElement('div');
                 card.className = 'channel-card';
-
+                
                 // Mark as active if it's the current playing channel
                 if (currentChannel && currentChannel.url === channel.url) {
                     card.classList.add('active');
                 }
-
+                
                 const logo = getChannelLogo(channel);
-
+                
                 card.innerHTML = `
                     <div class="channel-logo">
                         <img alt="${channel.name}" class="channel-img" loading="lazy" style="opacity: 0;">
@@ -1290,9 +1241,9 @@
                         </div>
                     </div>
                 `;
-
+                
                 const img = card.querySelector('.channel-img');
-
+                
                 // Use lazy loading observer if available
                 if (lazyLoadObserver) {
                     img.dataset.src = logo;
@@ -1300,27 +1251,27 @@
                 } else {
                     img.src = logo;
                 }
-
+                
                 // Image load handler
-                img.addEventListener('load', function () {
+                img.addEventListener('load', function() {
                     this.style.opacity = '1';
                 });
-
+                
                 // Error handler for images
-                img.addEventListener('error', function () {
+                img.addEventListener('error', function() {
                     this.src = placeholderLogo;
                     this.style.opacity = '0.7';
                 });
-
+                
                 // Click handler to play channel
                 card.addEventListener('click', (e) => {
                     e.preventDefault();
                     playChannel(channel);
                 }, { passive: true });
-
+                
                 return card;
             }
-
+            
             // Play selected channel
             function playChannel(channel) {
                 // Update UI
@@ -1328,29 +1279,29 @@
                 currentChannelCategory.textContent = channel.category;
                 playerPlaceholder.style.display = 'none';
                 nowPlaying.style.display = 'block';
-
+                
                 const jwPlayerElement = document.getElementById('my-jwplayer');
                 jwPlayerElement.style.display = 'block';
-
+                
                 // Update active state
                 const allCards = channelGrid.querySelectorAll('.channel-card');
-
+                
                 allCards.forEach(card => {
                     card.classList.remove('active');
                 });
-
+                
                 // Find and mark new active card
                 allCards.forEach(card => {
                     const titleElement = card.querySelector('.channel-title');
                     if (titleElement && titleElement.textContent === channel.name) {
                         card.classList.add('active');
-
+                        
                         // Scroll into view if needed
                         const cardRect = card.getBoundingClientRect();
                         const container = card.closest('.channels-container');
                         if (container) {
                             const containerRect = container.getBoundingClientRect();
-
+                            
                             if (cardRect.top < containerRect.top || cardRect.bottom > containerRect.bottom) {
                                 card.scrollIntoView({
                                     behavior: 'smooth',
@@ -1360,9 +1311,9 @@
                         }
                     }
                 });
-
+                
                 currentChannel = channel;
-
+                
                 // Initialize or update JW Player
                 try {
                     if (jwPlayer) {
@@ -1386,8 +1337,8 @@
                                 name: 'seven'
                             }
                         });
-
-                        jwPlayer.on('error', function (event) {
+                        
+                        jwPlayer.on('error', function(event) {
                             console.error('JW Player error:', event);
                             showPlayerError();
                         });
@@ -1397,12 +1348,12 @@
                     showPlayerError();
                 }
             }
-
+            
             // Update channel count display
             function updateChannelCount(count) {
                 channelsCount.textContent = count + ' Channel' + (count !== 1 ? 's' : '');
             }
-
+            
             // Show empty state when no channels found
             function showEmptyState() {
                 channelGrid.innerHTML = `
@@ -1413,7 +1364,7 @@
                     </div>
                 `;
             }
-
+            
             // Show error message
             function showError(title, message) {
                 channelGrid.innerHTML = `
@@ -1424,7 +1375,7 @@
                     </div>
                 `;
             }
-
+            
             // Show player error
             function showPlayerError() {
                 playerPlaceholder.innerHTML = `
@@ -1436,296 +1387,48 @@
                 nowPlaying.style.display = 'none';
                 document.getElementById('my-jwplayer').style.display = 'none';
             }
-
+            
             // Debounced search function
             function handleSearch() {
                 const currentTime = Date.now();
                 if (currentTime - lastSearchTime < searchDebounceDelay) return;
-
+                
                 lastSearchTime = currentTime;
-
+                
                 if (animationFrameId) {
                     cancelAnimationFrame(animationFrameId);
                 }
-
+                
                 animationFrameId = requestAnimationFrame(() => {
                     renderChannels(categoryFilter.value, searchBox.value);
                     animationFrameId = null;
                 });
             }
-
-            // TV Remote Control - Track focused channel
-            let focusedChannelIndex = -1;
-
-            // Get all channel cards
-            function getChannelCards() {
-                return Array.from(channelGrid.querySelectorAll('.channel-card:not(.loading-container):not(.empty-state)'));
-            }
-
-            // Set focus on channel card
-            function focusChannelCard(index) {
-                const cards = getChannelCards();
-                if (cards.length === 0) return -1;
-
-                // Clamp index to valid range
-                index = Math.max(0, Math.min(index, cards.length - 1));
-                focusedChannelIndex = index;
-
-                // Remove previous focus
-                cards.forEach(card => card.classList.remove('tv-focus'));
-
-                // Add focus to new card
-                const focusedCard = cards[index];
-                focusedCard.classList.add('tv-focus');
-
-                // Scroll into view
-                focusedCard.scrollIntoView({
-                    behavior: 'smooth',
-                    block: 'nearest'
-                });
-
-                return index;
-            }
-
-            // Navigate up in channel list
-            function navigateUp() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                // Get columns count based on grid layout
-                const containerWidth = channelGrid.parentElement.clientWidth;
-                const cardWidth = cards[0].offsetWidth + 18; // card width + gap
-                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else {
-                    const newIndex = focusedChannelIndex - columns;
-                    if (newIndex >= 0) {
-                        focusChannelCard(newIndex);
-                    } else {
-                        // Wrap to bottom
-                        focusChannelCard(cards.length - 1);
-                    }
-                }
-            }
-
-            // Navigate down in channel list
-            function navigateDown() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                // Get columns count based on grid layout
-                const containerWidth = channelGrid.parentElement.clientWidth;
-                const cardWidth = cards[0].offsetWidth + 18; // card width + gap
-                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else {
-                    const newIndex = focusedChannelIndex + columns;
-                    const cards = getChannelCards();
-                    if (newIndex < cards.length) {
-                        focusChannelCard(newIndex);
-                    } else {
-                        // Wrap to top
-                        focusChannelCard(0);
-                    }
-                }
-            }
-
-            // Navigate left in channel list
-            function navigateLeft() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else if (focusedChannelIndex > 0) {
-                    focusChannelCard(focusedChannelIndex - 1);
-                } else {
-                    // Wrap to last
-                    focusChannelCard(cards.length - 1);
-                }
-            }
-
-            // Navigate right in channel list
-            function navigateRight() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else if (focusedChannelIndex < cards.length - 1) {
-                    focusChannelCard(focusedChannelIndex + 1);
-                } else {
-                    // Wrap to first
-                    focusChannelCard(0);
-                }
-            }
-
-            // Play focused channel
-            function playFocusedChannel() {
-                const cards = getChannelCards();
-                if (focusedChannelIndex >= 0 && focusedChannelIndex < cards.length) {
-                    const focusedCard = cards[focusedChannelIndex];
-                    focusedCard.click();
-                }
-            }
-
-            // Jump to first channel
-            function jumpToFirst() {
-                const cards = getChannelCards();
-                if (cards.length > 0) {
-                    focusChannelCard(0);
-                }
-            }
-
-            // Jump to last channel
-            function jumpToLast() {
-                const cards = getChannelCards();
-                if (cards.length > 0) {
-                    focusChannelCard(cards.length - 1);
-                }
-            }
-
-            // Page up - scroll up by visible channels
-            function pageUp() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                const container = channelGrid.parentElement;
-                const containerHeight = container.clientHeight;
-                const cardHeight = cards[0].offsetHeight + 18; // card height + gap
-                const visibleRows = Math.max(1, Math.floor(containerHeight / cardHeight));
-                const containerWidth = container.clientWidth;
-                const cardWidth = cards[0].offsetWidth + 18;
-                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
-                const visibleCount = visibleRows * columns;
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else {
-                    focusChannelCard(Math.max(0, focusedChannelIndex - visibleCount));
-                }
-            }
-
-            // Page down - scroll down by visible channels
-            function pageDown() {
-                const cards = getChannelCards();
-                if (cards.length === 0) return;
-
-                const container = channelGrid.parentElement;
-                const containerHeight = container.clientHeight;
-                const cardHeight = cards[0].offsetHeight + 18;
-                const visibleRows = Math.max(1, Math.floor(containerHeight / cardHeight));
-                const containerWidth = container.clientWidth;
-                const cardWidth = cards[0].offsetWidth + 18;
-                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
-                const visibleCount = visibleRows * columns;
-
-                if (focusedChannelIndex === -1) {
-                    focusChannelCard(0);
-                } else {
-                    focusChannelCard(Math.min(cards.length - 1, focusedChannelIndex + visibleCount));
-                }
-            }
-
-            // Reset focus when channels are re-rendered
-            const originalRenderChannels = renderChannels;
-            renderChannels = function(categoryFilterValue = '', searchQuery = '') {
-                focusedChannelIndex = -1;
-                return originalRenderChannels.call(this, categoryFilterValue, searchQuery);
-            };
-
+            
             // Event Listeners
             categoryFilter.addEventListener('change', handleSearch);
             searchBox.addEventListener('input', handleSearch);
-
+            
             // Prevent default on Enter
             searchBox.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter') {
                     e.preventDefault();
                 }
             });
-
+            
             // Global keyboard shortcuts
             document.addEventListener('keydown', (e) => {
-                // Do not handle TV remote keys when typing in search box
-                const isSearchActive = document.activeElement === searchBox;
-
-                // Arrow keys for TV remote navigation
-                if (e.key === 'ArrowUp' && !isSearchActive) {
-                    e.preventDefault();
-                    navigateUp();
-                    return;
-                }
-
-                if (e.key === 'ArrowDown' && !isSearchActive) {
-                    e.preventDefault();
-                    navigateDown();
-                    return;
-                }
-
-                if (e.key === 'ArrowLeft' && !isSearchActive) {
-                    e.preventDefault();
-                    navigateLeft();
-                    return;
-                }
-
-                if (e.key === 'ArrowRight' && !isSearchActive) {
-                    e.preventDefault();
-                    navigateRight();
-                    return;
-                }
-
-                // Enter key to play focused channel
-                if (e.key === 'Enter' && !isSearchActive) {
-                    e.preventDefault();
-                    playFocusedChannel();
-                    return;
-                }
-
-                // Home key - jump to first channel
-                if (e.key === 'Home' && !isSearchActive) {
-                    e.preventDefault();
-                    jumpToFirst();
-                    return;
-                }
-
-                // End key - jump to last channel
-                if (e.key === 'End' && !isSearchActive) {
-                    e.preventDefault();
-                    jumpToLast();
-                    return;
-                }
-
-                // Page Up - scroll up
-                if (e.key === 'PageUp' && !isSearchActive) {
-                    e.preventDefault();
-                    pageUp();
-                    return;
-                }
-
-                // Page Down - scroll down
-                if (e.key === 'PageDown' && !isSearchActive) {
-                    e.preventDefault();
-                    pageDown();
-                    return;
-                }
-
                 // Focus search box with '/'
-                if (e.key === '/' && !isSearchActive) {
+                if (e.key === '/' && document.activeElement !== searchBox) {
                     e.preventDefault();
                     searchBox.focus();
-                    focusedChannelIndex = -1;
                     return;
                 }
-
+                
                 // Space to play/pause (only when not in search box)
-                if (e.key === ' ' && !isSearchActive && jwPlayer) {
+                if (e.key === ' ' && document.activeElement !== searchBox && jwPlayer) {
                     e.preventDefault();
-
+                    
                     try {
                         if (jwPlayer.getState() === 'playing') {
                             jwPlayer.pause();
@@ -1736,18 +1439,15 @@
                         console.error('Error controlling player:', error);
                     }
                 }
-
+                
                 // Clear search with Escape
-                if (e.key === 'Escape') {
-                    if (isSearchActive) {
-                        searchBox.value = '';
-                        renderChannels(categoryFilter.value, '');
-                        searchBox.blur();
-                        focusedChannelIndex = -1;
-                    }
+                if (e.key === 'Escape' && document.activeElement === searchBox) {
+                    searchBox.value = '';
+                    renderChannels(categoryFilter.value, '');
+                    searchBox.blur();
                 }
             });
-
+            
             // Cleanup on page unload
             window.addEventListener('beforeunload', () => {
                 if (jwPlayer) {
@@ -1757,11 +1457,11 @@
                         console.error('Error removing player:', error);
                     }
                 }
-
+                
                 if (lazyLoadObserver) {
                     lazyLoadObserver.disconnect();
                 }
-
+                
                 if (animationFrameId) {
                     cancelAnimationFrame(animationFrameId);
                 }
@@ -1769,5 +1469,4 @@
         });
     </script>
 </body>
-
 </html>
