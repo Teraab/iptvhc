@@ -905,6 +905,12 @@
         height: auto !important;
     }
 }
+        /* TV Remote Focus Style */
+.channel-card.tv-focused {
+    outline: 3px solid #00d4ff;
+    transform: scale(1.05);
+    z-index: 5;
+}
     </style>
 </head>
 <body>
@@ -1467,7 +1473,79 @@
                     searchBox.blur();
                 }
             });
-            
+            // ===== ANDROID TV REMOTE CONTROL SUPPORT =====
+
+let tvFocusIndex = 0;
+
+function updateTVFocus() {
+    const cards = document.querySelectorAll('.channel-card');
+    cards.forEach(card => card.classList.remove('tv-focused'));
+
+    if (cards.length > 0 && cards[tvFocusIndex]) {
+        cards[tvFocusIndex].classList.add('tv-focused');
+        cards[tvFocusIndex].scrollIntoView({
+            behavior: 'smooth',
+            block: 'nearest'
+        });
+    }
+}
+
+document.addEventListener('keydown', function(e) {
+
+    const cards = document.querySelectorAll('.channel-card');
+    if (!cards.length) return;
+
+    const gridStyle = window.getComputedStyle(document.querySelector('.channels-grid'));
+    const columns = gridStyle.gridTemplateColumns.split(' ').length;
+
+    switch(e.key) {
+
+        case 'ArrowRight':
+            if (tvFocusIndex < cards.length - 1) {
+                tvFocusIndex++;
+                updateTVFocus();
+            }
+            break;
+
+        case 'ArrowLeft':
+            if (tvFocusIndex > 0) {
+                tvFocusIndex--;
+                updateTVFocus();
+            }
+            break;
+
+        case 'ArrowDown':
+            if (tvFocusIndex + columns < cards.length) {
+                tvFocusIndex += columns;
+                updateTVFocus();
+            }
+            break;
+
+        case 'ArrowUp':
+            if (tvFocusIndex - columns >= 0) {
+                tvFocusIndex -= columns;
+                updateTVFocus();
+            }
+            break;
+
+        case 'Enter':
+            if (cards[tvFocusIndex]) {
+                cards[tvFocusIndex].click();
+            }
+            break;
+    }
+
+});
+
+// Reset focus when channels render
+const originalRenderChannels = renderChannels;
+renderChannels = function() {
+    originalRenderChannels.apply(this, arguments);
+    setTimeout(() => {
+        tvFocusIndex = 0;
+        updateTVFocus();
+    }, 200);
+};
             // Cleanup on page unload
             window.addEventListener('beforeunload', () => {
                 if (jwPlayer) {
