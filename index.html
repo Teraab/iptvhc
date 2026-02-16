@@ -353,6 +353,13 @@
             background: linear-gradient(to right, var(--primary), var(--secondary));
         }
 
+        .channel-card.tv-focus {
+            outline: 3px solid var(--secondary);
+            transform: scale(1.08);
+            box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+            border-color: var(--secondary);
+        }
+
         .channel-logo {
             width: 100%;
             height: 120px;
@@ -905,12 +912,6 @@
                 font-size: 1.1rem;
             }
 
-            .channel-card:focus,
-            .channel-card.tv-focus {
-                outline: 3px solid var(--secondary);
-                transform: scale(1.05);
-            }
-
             @media (min-width: 1600px) {
                 .channels-grid {
                     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -1453,6 +1454,190 @@
                 });
             }
 
+            // TV Remote Control - Track focused channel
+            let focusedChannelIndex = -1;
+
+            // Get all channel cards
+            function getChannelCards() {
+                return Array.from(channelGrid.querySelectorAll('.channel-card:not(.loading-container):not(.empty-state)'));
+            }
+
+            // Set focus on channel card
+            function focusChannelCard(index) {
+                const cards = getChannelCards();
+                if (cards.length === 0) return -1;
+
+                // Clamp index to valid range
+                index = Math.max(0, Math.min(index, cards.length - 1));
+                focusedChannelIndex = index;
+
+                // Remove previous focus
+                cards.forEach(card => card.classList.remove('tv-focus'));
+
+                // Add focus to new card
+                const focusedCard = cards[index];
+                focusedCard.classList.add('tv-focus');
+
+                // Scroll into view
+                focusedCard.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'nearest'
+                });
+
+                return index;
+            }
+
+            // Navigate up in channel list
+            function navigateUp() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                // Get columns count based on grid layout
+                const containerWidth = channelGrid.parentElement.clientWidth;
+                const cardWidth = cards[0].offsetWidth + 18; // card width + gap
+                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else {
+                    const newIndex = focusedChannelIndex - columns;
+                    if (newIndex >= 0) {
+                        focusChannelCard(newIndex);
+                    } else {
+                        // Wrap to bottom
+                        focusChannelCard(cards.length - 1);
+                    }
+                }
+            }
+
+            // Navigate down in channel list
+            function navigateDown() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                // Get columns count based on grid layout
+                const containerWidth = channelGrid.parentElement.clientWidth;
+                const cardWidth = cards[0].offsetWidth + 18; // card width + gap
+                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else {
+                    const newIndex = focusedChannelIndex + columns;
+                    const cards = getChannelCards();
+                    if (newIndex < cards.length) {
+                        focusChannelCard(newIndex);
+                    } else {
+                        // Wrap to top
+                        focusChannelCard(0);
+                    }
+                }
+            }
+
+            // Navigate left in channel list
+            function navigateLeft() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else if (focusedChannelIndex > 0) {
+                    focusChannelCard(focusedChannelIndex - 1);
+                } else {
+                    // Wrap to last
+                    focusChannelCard(cards.length - 1);
+                }
+            }
+
+            // Navigate right in channel list
+            function navigateRight() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else if (focusedChannelIndex < cards.length - 1) {
+                    focusChannelCard(focusedChannelIndex + 1);
+                } else {
+                    // Wrap to first
+                    focusChannelCard(0);
+                }
+            }
+
+            // Play focused channel
+            function playFocusedChannel() {
+                const cards = getChannelCards();
+                if (focusedChannelIndex >= 0 && focusedChannelIndex < cards.length) {
+                    const focusedCard = cards[focusedChannelIndex];
+                    focusedCard.click();
+                }
+            }
+
+            // Jump to first channel
+            function jumpToFirst() {
+                const cards = getChannelCards();
+                if (cards.length > 0) {
+                    focusChannelCard(0);
+                }
+            }
+
+            // Jump to last channel
+            function jumpToLast() {
+                const cards = getChannelCards();
+                if (cards.length > 0) {
+                    focusChannelCard(cards.length - 1);
+                }
+            }
+
+            // Page up - scroll up by visible channels
+            function pageUp() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                const container = channelGrid.parentElement;
+                const containerHeight = container.clientHeight;
+                const cardHeight = cards[0].offsetHeight + 18; // card height + gap
+                const visibleRows = Math.max(1, Math.floor(containerHeight / cardHeight));
+                const containerWidth = container.clientWidth;
+                const cardWidth = cards[0].offsetWidth + 18;
+                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
+                const visibleCount = visibleRows * columns;
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else {
+                    focusChannelCard(Math.max(0, focusedChannelIndex - visibleCount));
+                }
+            }
+
+            // Page down - scroll down by visible channels
+            function pageDown() {
+                const cards = getChannelCards();
+                if (cards.length === 0) return;
+
+                const container = channelGrid.parentElement;
+                const containerHeight = container.clientHeight;
+                const cardHeight = cards[0].offsetHeight + 18;
+                const visibleRows = Math.max(1, Math.floor(containerHeight / cardHeight));
+                const containerWidth = container.clientWidth;
+                const cardWidth = cards[0].offsetWidth + 18;
+                const columns = Math.max(1, Math.floor(containerWidth / cardWidth));
+                const visibleCount = visibleRows * columns;
+
+                if (focusedChannelIndex === -1) {
+                    focusChannelCard(0);
+                } else {
+                    focusChannelCard(Math.min(cards.length - 1, focusedChannelIndex + visibleCount));
+                }
+            }
+
+            // Reset focus when channels are re-rendered
+            const originalRenderChannels = renderChannels;
+            renderChannels = function(categoryFilterValue = '', searchQuery = '') {
+                focusedChannelIndex = -1;
+                return originalRenderChannels.call(this, categoryFilterValue, searchQuery);
+            };
+
             // Event Listeners
             categoryFilter.addEventListener('change', handleSearch);
             searchBox.addEventListener('input', handleSearch);
@@ -1466,15 +1651,79 @@
 
             // Global keyboard shortcuts
             document.addEventListener('keydown', (e) => {
+                // Do not handle TV remote keys when typing in search box
+                const isSearchActive = document.activeElement === searchBox;
+
+                // Arrow keys for TV remote navigation
+                if (e.key === 'ArrowUp' && !isSearchActive) {
+                    e.preventDefault();
+                    navigateUp();
+                    return;
+                }
+
+                if (e.key === 'ArrowDown' && !isSearchActive) {
+                    e.preventDefault();
+                    navigateDown();
+                    return;
+                }
+
+                if (e.key === 'ArrowLeft' && !isSearchActive) {
+                    e.preventDefault();
+                    navigateLeft();
+                    return;
+                }
+
+                if (e.key === 'ArrowRight' && !isSearchActive) {
+                    e.preventDefault();
+                    navigateRight();
+                    return;
+                }
+
+                // Enter key to play focused channel
+                if (e.key === 'Enter' && !isSearchActive) {
+                    e.preventDefault();
+                    playFocusedChannel();
+                    return;
+                }
+
+                // Home key - jump to first channel
+                if (e.key === 'Home' && !isSearchActive) {
+                    e.preventDefault();
+                    jumpToFirst();
+                    return;
+                }
+
+                // End key - jump to last channel
+                if (e.key === 'End' && !isSearchActive) {
+                    e.preventDefault();
+                    jumpToLast();
+                    return;
+                }
+
+                // Page Up - scroll up
+                if (e.key === 'PageUp' && !isSearchActive) {
+                    e.preventDefault();
+                    pageUp();
+                    return;
+                }
+
+                // Page Down - scroll down
+                if (e.key === 'PageDown' && !isSearchActive) {
+                    e.preventDefault();
+                    pageDown();
+                    return;
+                }
+
                 // Focus search box with '/'
-                if (e.key === '/' && document.activeElement !== searchBox) {
+                if (e.key === '/' && !isSearchActive) {
                     e.preventDefault();
                     searchBox.focus();
+                    focusedChannelIndex = -1;
                     return;
                 }
 
                 // Space to play/pause (only when not in search box)
-                if (e.key === ' ' && document.activeElement !== searchBox && jwPlayer) {
+                if (e.key === ' ' && !isSearchActive && jwPlayer) {
                     e.preventDefault();
 
                     try {
@@ -1489,10 +1738,13 @@
                 }
 
                 // Clear search with Escape
-                if (e.key === 'Escape' && document.activeElement === searchBox) {
-                    searchBox.value = '';
-                    renderChannels(categoryFilter.value, '');
-                    searchBox.blur();
+                if (e.key === 'Escape') {
+                    if (isSearchActive) {
+                        searchBox.value = '';
+                        renderChannels(categoryFilter.value, '');
+                        searchBox.blur();
+                        focusedChannelIndex = -1;
+                    }
                 }
             });
 
