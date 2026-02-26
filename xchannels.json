@@ -1,228 +1,1143 @@
-{ id: "626607", name: "|PK| ARY QTV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=626607" },
-{ id: "87155", name: "|PK| ARY NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87155" },
-{ id: "87156", name: "|PK| ATN NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87156" },
-{ id: "87148", name: "|PK| BOL NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87148" },
-{ id: "87172", name: "|PK| CAPITAL TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87172" },
-{ id: "87152", name: "|PK| CHANNEL 24 ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87152" },
-{ id: "87176", name: "|PK| CITY 41", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87176" },
-{ id: "87177", name: "|PK| CITY 42", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87177" },
-{ id: "87160", name: "|PK| DAWN NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87160" },
-{ id: "87164", name: "|PK| DUNYA NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87164" },
-{ id: "87158", name: "|PK| EXPRESS NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87158" },
-{ id: "87144", name: "|PK| GEO NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87144" },
-{ id: "87178", name: "|PK| GEO TEZZ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87178" },
-{ id: "87150", name: "|PK| GNN ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87150" },
-{ id: "87149", name: "|PK| GTV ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87149" },
-{ id: "87145", name: "|PK| HUM NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87145" },
-{ id: "87157", name: "|PK| KHYBER NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87157" },
-{ id: "87168", name: "|PK| KOHINOOR NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87168" },
-{ id: "87161", name: "|PK| KTN NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87161" },
-{ id: "87146", name: "|PK| LAHORE NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87146" },
-{ id: "87147", name: "|PK| LAHORE RANG ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87147" },
-{ id: "87174", name: "|PK| MEHRAN TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87174" },
-{ id: "87173", name: "|PK| METRO 1", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87173" },
-{ id: "87153", name: "|PK| NEO NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87153" },
-{ id: "87163", name: "|PK| NEWS ONE", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87163" },
-{ id: "87162", name: "|PK| PTV NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87162" },
-{ id: "87151", name: "|PK| PUBLIC NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87151" },
-{ id: "87166", name: "|PK| ROHI TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87166" },
-{ id: "87167", name: "|PK| ROZE NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87167" },
-{ id: "87165", name: "|PK| SINDH NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=87165" },
-{ id: "49157", name: "|PK| HUM TV ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49157" },
-{ id: "49158", name: "|PK| HUM SITARY", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49158" },
-{ id: "49159", name: "|PK| MASALA TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49159" },
-{ id: "49162", name: "|PK| ARY ZINDAGI", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49162" },
-{ id: "49163", name: "|PK| BOL ENTERTAINMENT ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49163" },
-{ id: "49165", name: "|PK| GEO KAHANI", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49165" },
-{ id: "49166", name: "|PK| A PLUS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49166" },
-{ id: "49167", name: "|PK| EXPRESS ENTERTAINMENT", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49167" },
-{ id: "49168", name: "|PK| APNA CHANNEL", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49168" },
-{ id: "49169", name: "|PK| URDU 1 ᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49169" },
-{ id: "49170", name: "|PK| TV ONE", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49170" },
-{ id: "49175", name: "|PK| PTV HOME", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49175" },
-{ id: "49176", name: "|PK| PTV WORLD", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49176" },
-{ id: "49177", name: "|PK| PTV BOLAN", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49177" },
-{ id: "49178", name: "|PK| K-21", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49178" },
-{ id: "49179", name: "|PK| PLAY TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49179" },
-{ id: "49181", name: "|PK| SEE TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49181" },
-{ id: "49182", name: "|PK| KASHISH", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49182" },
-{ id: "49183", name: "|PK| PASHTO 1", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49183" },
-{ id: "49185", name: "|PK| KTN ENTERTAINMENT", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49185" },
-{ id: "49186", name: "|PK| SINDH ENTERTAINMENT", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49186" },
-{ id: "49187", name: "|PK| ARY NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49187" },
-{ id: "49188", name: "|PK| GEO NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49188" },
-{ id: "49189", name: "|PK| GEO TEZZ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49189" },
-{ id: "49191", name: "|PK| GNN ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49191" },
-{ id: "49193", name: "UK-92 News ˢᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49193" },
-{ id: "49194", name: "|PK| 92 NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49194" },
-{ id: "49195", name: "|PK| BOL NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49195" },
-{ id: "49196", name: "|PK| HUM NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49196" },
-{ id: "49198", name: "|PK| PUBLIC NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49198" },
-{ id: "49199", name: "|PK| NEO NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49199" },
-{ id: "49200", name: "|PK| CHANNEL 24 ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49200" },
-{ id: "49201", name: "|PK| LAHORE NEWS ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49201" },
-{ id: "49202", name: "|PK| LAHROE RANG ᵁᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49202" },
-{ id: "49203", name: "|PK| SAAMA NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49203" },
-{ id: "49204", name: "|PK| DUNYA NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49204" },
-{ id: "49205", name: "|PK| EXPRESS NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49205" },
-{ id: "49206", name: "|PK| NEWS ONE", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49206" },
-{ id: "49208", name: "|PK| DAWN NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49208" },
-{ id: "49209", name: "|PK| ABBTAKK NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49209" },
-{ id: "49210", name: "|PK| CAPITAL TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49210" },
-{ id: "49212", name: "|PK| CITY 41", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49212" },
-{ id: "49213", name: "|PK| CITY 42", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49213" },
-{ id: "49217", name: "|PK| ROZE NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49217" },
-{ id: "49219", name: "|PK| KHYBER NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49219" },
-{ id: "49220", name: "|PK| AVT KHYBER", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49220" },
-{ id: "49221", name: "|PK| KTN NEWS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49221" },
-{ id: "49222", name: "|PK| AWAZ TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49222" },
-{ id: "49223", name: "|PK| ROHI TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49223" },
-{ id: "49228", name: "|PK| ARY MUSIK", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49228" },
-{ id: "49229", name: "|PK| 8XM ᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49229" },
-{ id: "49230", name: "|PK| RAAVI", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49230" },
-{ id: "49232", name: "|PK| FILMWORLD", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49232" },
-{ id: "49236", name: "|PK| CARTOON NETWORK ᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49236" },
-{ id: "49237", name: "|PK| KIDS ZONE+ᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49237" },
-{ id: "49240", name: "|PK| PTV SPORTS RAW", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49240" },
-{ id: "49241", name: "|PK| PTV SPORTS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49241" },
-{ id: "49242", name: "|PK| GEO SUPER", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49242" },
-{ id: "49259", name: "|PK| CINEMACHI KIDS", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49259" },
-{ id: "49261", name: "|PK| POP Kids ᴴᴰ", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49261" },
-{ id: "49263", name: "|PK| PEACE TV ENGLISH", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49263" },
-{ id: "49264", name: "|PK| WASEEB TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49264" },
-{ id: "49265", name: "|PK| SAUDI SUNNAH TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49265" },
-{ id: "49266", name: "|PK| SAUDI AL QURAN TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49266" },
-{ id: "49271", name: "|PK| AHLEBAIT", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49271" },
-{ id: "49273", name: "|PK| METRO 1", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49273" },
-{ id: "49274", name: "|PK| PEACE TV URDU", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49274" },
-{ id: "49275", name: "|PK| HADI TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49275" },
-{ id: "49276", name: "|PK| MADANI TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49276" },
-{ id: "49279", name: "|PK| MEHRAN TV", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49279" },
-{ id: "49280", name: "|PK| Star Plus ᵁᴴᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49280" },
-{ id: "49282", name: "|PK| Geo News ˢᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49282" },
-{ id: "49284", name: "|PK| PTV Home", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49284" },
-{ id: "49286", name: "|PK| TV One", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49286" },
-{ id: "49287", name: "|PK| APLUS Europe", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49287" },
-{ id: "49288", name: "|PK| Geo Kahani ˢᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49288" },
-{ id: "49291", name: "|PK| Hum Masala ˢᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49291" },
-{ id: "49294", name: "|PK| Samaa TV ˢᴰ*", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49294" },
-{ id: "49295", name: "|PK| Dunya News", logo: "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg", group: "✪ PAKISTAN", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=49295" },
-{ id: "306175", name: "|ODIA| COLORS ODIA", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306175" },
-{ id: "306176", name: "|ODIA| STAR KIRAN", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306176" },
-{ id: "306177", name: "|ODIA| KALINGA TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306177" },
-{ id: "306178", name: "|ODIA| ZEE SARTHAK TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306178" },
-{ id: "306179", name: "|ODIA| SIDDARTH GOLD", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306179" },
-{ id: "306180", name: "|ODIA| SIDDARTH TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306180" },
-{ id: "306181", name: "|ODIA| ARGUS NEWS", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306181" },
-{ id: "306182", name: "|ODIA| PRAMEYA NEWS 7", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306182" },
-{ id: "306183", name: "|ODIA| TARANG MUSIC", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306183" },
-{ id: "306184", name: "|ODIA| ALANKAR TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306184" },
-{ id: "306185", name: "|ODIA| TARANG TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306185" },
-{ id: "306186", name: "|ODIA| ODISHA TV", logo: "", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=306186" },
-{ id: "510907", name: "|INDIA|UTSAV PLUS", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=510907" },
-{ id: "276904", name: "|HI| ZEE CLASSICS", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276904" },
-{ id: "276905", name: "|HI| ZEE ACTION", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276905" },
-{ id: "276906", name: "|HI| ZEE TV ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276906" },
-{ id: "276907", name: "|HI| ZEE CINEMA ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276907" },
-{ id: "276908", name: "|HI| ZING", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276908" },
-{ id: "276909", name: "|HI| STAR BHARAT ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276909" },
-{ id: "276910", name: "|HI| STAR GOLD ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276910" },
-{ id: "276911", name: "|HI| STAR GOLD SELECT ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276911" },
-{ id: "276912", name: "|HI| STAR PLUS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276912" },
-{ id: "276913", name: "|HI| STAR UTSAV", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276913" },
-{ id: "276914", name: "|HI| STAR UTSAV MOVIES", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276914" },
-{ id: "276915", name: "|HI| SONY ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276915" },
-{ id: "276916", name: "|HI| SONY MAX ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276916" },
-{ id: "276917", name: "|HI| SONY MAX 2", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276917" },
-{ id: "276918", name: "|HI| SONY PIX ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276918" },
-{ id: "276919", name: "|HI| SONY BBC EARTH ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276919" },
-{ id: "276920", name: "|HI| SONY SAB ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276920" },
-{ id: "276921", name: "|HI| SONY PAL", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276921" },
-{ id: "276922", name: "|HI| SONY WAH", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276922" },
-{ id: "276923", name: "|HI| SONY YAY", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276923" },
-{ id: "276924", name: "|HI| B4U MOVIES", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276924" },
-{ id: "276925", name: "|HI| COLORS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276925" },
-{ id: "276926", name: "|HI| 9X JALWA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276926" },
-{ id: "276927", name: "|HI| AAJ TAK ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276927" },
-{ id: "276928", name: "|HI| AAJ TAK TEZ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276928" },
-{ id: "276929", name: "|HI| ZOOM TV ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276929" },
-{ id: "276930", name: "|HI| AASTHA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276930" },
-{ id: "276931", name: "|HI| AASTHA BHAJAN", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276931" },
-{ id: "276932", name: "|HI| ABP NEWS INDIA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276932" },
-{ id: "276933", name: "|HI| AND PICTURES ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276933" },
-{ id: "276934", name: "|HI| & TV ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276934" },
-{ id: "276935", name: "|HI| ANIMAL PLANET ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276935" },
-{ id: "276936", name: "|HI| ARIHANT", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276936" },
-{ id: "276937", name: "|HI| BABY TV ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276937" },
-{ id: "276938", name: "|HI| BIG MAGIC ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276938" },
-{ id: "276940", name: "|HI| CINEPLEX ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276940" },
-{ id: "276942", name: "|HI| DD NATIONAL ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276942" },
-{ id: "276943", name: "|HI| DD RAJASTHAN", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276943" },
-{ id: "276944", name: "|HI| DD BHARATI", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276944" },
-{ id: "276945", name: "|HI| DD BIHAR", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276945" },
-{ id: "276946", name: "|HI| DD INDIA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276946" },
-{ id: "276947", name: "|HI| DD NEWS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276947" },
-{ id: "276948", name: "|HI| DD SPORTS", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276948" },
-{ id: "276950", name: "|HI| DD URDU", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276950" },
-{ id: "276952", name: "|HI| DD BHARTI", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276952" },
-{ id: "276953", name: "|HI| DISCOVERY WORLD ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276953" },
-{ id: "276954", name: "|HI| E 24", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276954" },
-{ id: "276955", name: "|HI| ENTER 10 MOVIES", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276955" },
-{ id: "276956", name: "|HI| EPIC ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276956" },
-{ id: "276957", name: "|HI| FOX LIFE ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276957" },
-{ id: "276958", name: "|HI| HISTORY TV18 ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276958" },
-{ id: "276964", name: "|HI| LIVING FOODZ ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276964" },
-{ id: "276965", name: "|HI| MINIPLEX ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276965" },
-{ id: "276966", name: "|HI| MOVIES ACTIVE", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276966" },
-{ id: "276967", name: "|HI| MTV BEATS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276967" },
-{ id: "276968", name: "|HI| MTV PLUS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276968" },
-{ id: "276969", name: "|HI| MUSIC INDIA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276969" },
-{ id: "276970", name: "|HI| NAT GEO WILD ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276970" },
-{ id: "276971", name: "|HI| NATIONAL GEOGRAPHIC ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276971" },
-{ id: "276972", name: "|HI| NEWS 18 ASSAM", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276972" },
-{ id: "276974", name: "|HI| NEWS 18 INDIA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276974" },
-{ id: "276975", name: "|HI| NEWS 18 RAJASTHAN", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276975" },
-{ id: "276976", name: "|HI| NEWS NATION", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276976" },
-{ id: "276978", name: "|HI| REPUBLIC TV", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276978" },
-{ id: "276979", name: "|HI| NICK PLUS ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276979" },
-{ id: "276980", name: "|HI| PARAS TV", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276980" },
-{ id: "276981", name: "|HI| PEACE OF MIND ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276981" },
-{ id: "276982", name: "|HI| MAHA MOVIES", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276982" },
-{ id: "276984", name: "|HI| TATA SKY THEATRE FHD", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276984" },
-{ id: "276985", name: "|HI| UTV ACTION", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276985" },
-{ id: "276986", name: "|HI| UTV ᴴᴰ", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276986" },
-{ id: "276987", name: "|HI| VEDIC TV", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276987" },
-{ id: "276989", name: "|HI| ZEE ANMOL", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276989" },
-{ id: "276990", name: "|HI| ZEE ANMOL CINEMA", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276990" },
-{ id: "276991", name: "|HI| ZEE HINDUSTAN NEWS", logo: "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg", group: "✪ INDIA", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=276991" },
-{ id: "276992", name: "#EXTINF:-1 tvg-id="276992" tvg-name="|HI| ZEE NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/", logo: "", group: "", url: "undefined" },
-{ id: "277250", name: "|PU|UK| KTV INDIA", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277250" },
-{ id: "277251", name: "|PU| CHARDIKLA TIMES TV", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277251" },
-{ id: "277252", name: "|PU| DD PUNJABI", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277252" },
-{ id: "277253", name: "|PU| HUNGAMA AMRITVANI ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277253" },
-{ id: "277254", name: "|PU| INDIA NEWS PUNJAB", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277254" },
-{ id: "277255", name: "|PU| MANORANJAN MOVIES", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277255" },
-{ id: "277256", name: "|PU| MANORANJAN TV", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277256" },
-{ id: "277257", name: "|PU| MH1 MUSIC", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277257" },
-{ id: "277258", name: "|PU| MH1 NEWS", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277258" },
-{ id: "277259", name: "|PU| MH1 SHRADDHA", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277259" },
-{ id: "277260", name: "|PU| NEWS 18 PUNJAB HARYANA", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277260" },
-{ id: "277261", name: "|PU| PITAARA TV", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277261" },
-{ id: "277262", name: "|PU| PRIME ASIA ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277262" },
-{ id: "277263", name: "|PU| PTC CHAKDE", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277263" },
-{ id: "277264", name: "|PU| PTC NEWS", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277264" },
-{ id: "277265", name: "|PU| PTC PUNJABI", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277265" },
-{ id: "277266", name: "|PU| SANJHA TV ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277266" },
-{ id: "277267", name: "|PU| SSTV ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277267" },
-{ id: "277268", name: "|PU| ZEE PUNJAB HARYANA ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277268" },
-{ id: "277269", name: "|PU| ZEE PUNJABI", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277269" },
-{ id: "277270", name: "|PU| MAHA", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277270" },
-{ id: "277271", name: "|PU| TATA SKY PUNJAB DE RANG", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277271" },
-{ id: "277272", name: "|PU| FATEH TV", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277272" },
-{ id: "277273", name: "|PU| JUS ONE", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277273" },
-{ id: "277274", name: "|PU| BRIT ASIA", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277274" },
-{ id: "277275", name: "|PU| CHARDIKALAH TIMES TV", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277275" },
-{ id: "277276", name: "|PU| AIKAM TV ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277276" },
-{ id: "277277", name: "|PU| DESI CHANNEL", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277277" },
-{ id: "277278", name: "|PU| PCHS TV ᴴᴰ", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277278" },
-{ id: "277279", name: "|PU| LIVING INDIA NEWS", logo: "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png", group: "✪ PUNJABI", url: "https://allinonereborn.online/mix.m3u8/live478.php?id=277279" },
+{
+  "PAKISTAN Channels": [
+    {
+      "name": "ARY QTV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=626607"
+    },
+    {
+      "name": "ARY NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87155"
+    },
+    {
+      "name": "ATN NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87156"
+    },
+    {
+      "name": "BOL NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87148"
+    },
+    {
+      "name": "CAPITAL TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87172"
+    },
+    {
+      "name": "CHANNEL 24 ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87152"
+    },
+    {
+      "name": "CITY 41",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87176"
+    },
+    {
+      "name": "CITY 42",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87177"
+    },
+    {
+      "name": "DAWN NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87160"
+    },
+    {
+      "name": "DUNYA NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87164"
+    },
+    {
+      "name": "EXPRESS NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87158"
+    },
+    {
+      "name": "GEO NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87144"
+    },
+    {
+      "name": "GEO TEZZ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87178"
+    },
+    {
+      "name": "GNN ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87150"
+    },
+    {
+      "name": "GTV ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87149"
+    },
+    {
+      "name": "HUM NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87145"
+    },
+    {
+      "name": "KHYBER NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87157"
+    },
+    {
+      "name": "KOHINOOR NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87168"
+    },
+    {
+      "name": "KTN NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87161"
+    },
+    {
+      "name": "LAHORE NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87146"
+    },
+    {
+      "name": "LAHORE RANG ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87147"
+    },
+    {
+      "name": "MEHRAN TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87174"
+    },
+    {
+      "name": "METRO 1",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87173"
+    },
+    {
+      "name": "NEO NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87153"
+    },
+    {
+      "name": "NEWS ONE",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87163"
+    },
+    {
+      "name": "PTV NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87162"
+    },
+    {
+      "name": "PUBLIC NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87151"
+    },
+    {
+      "name": "ROHI TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87166"
+    },
+    {
+      "name": "ROZE NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87167"
+    },
+    {
+      "name": "SINDH NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=87165"
+    },
+    {
+      "name": "HUM TV ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49157"
+    },
+    {
+      "name": "HUM SITARY",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49158"
+    },
+    {
+      "name": "MASALA TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49159"
+    },
+    {
+      "name": "ARY ZINDAGI",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49162"
+    },
+    {
+      "name": "BOL ENTERTAINMENT ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49163"
+    },
+    {
+      "name": "GEO KAHANI",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49165"
+    },
+    {
+      "name": "A PLUS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49166"
+    },
+    {
+      "name": "EXPRESS ENTERTAINMENT",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49167"
+    },
+    {
+      "name": "APNA CHANNEL",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49168"
+    },
+    {
+      "name": "URDU 1 ᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49169"
+    },
+    {
+      "name": "TV ONE",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49170"
+    },
+    {
+      "name": "PTV HOME",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49175"
+    },
+    {
+      "name": "PTV WORLD",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49176"
+    },
+    {
+      "name": "PTV BOLAN",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49177"
+    },
+    {
+      "name": "K-21",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49178"
+    },
+    {
+      "name": "PLAY TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49179"
+    },
+    {
+      "name": "SEE TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49181"
+    },
+    {
+      "name": "KASHISH",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49182"
+    },
+    {
+      "name": "PASHTO 1",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49183"
+    },
+    {
+      "name": "KTN ENTERTAINMENT",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49185"
+    },
+    {
+      "name": "SINDH ENTERTAINMENT",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49186"
+    },
+    {
+      "name": "ARY NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49187"
+    },
+    {
+      "name": "GEO NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49188"
+    },
+    {
+      "name": "GEO TEZZ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49189"
+    },
+    {
+      "name": "GNN ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49191"
+    },
+    {
+      "name": "UK-92 News ˢᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49193"
+    },
+    {
+      "name": "92 NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49194"
+    },
+    {
+      "name": "BOL NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49195"
+    },
+    {
+      "name": "HUM NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49196"
+    },
+    {
+      "name": "PUBLIC NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49198"
+    },
+    {
+      "name": "NEO NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49199"
+    },
+    {
+      "name": "CHANNEL 24 ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49200"
+    },
+    {
+      "name": "LAHORE NEWS ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49201"
+    },
+    {
+      "name": "LAHROE RANG ᵁᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49202"
+    },
+    {
+      "name": "SAAMA NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49203"
+    },
+    {
+      "name": "DUNYA NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49204"
+    },
+    {
+      "name": "EXPRESS NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49205"
+    },
+    {
+      "name": "NEWS ONE",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49206"
+    },
+    {
+      "name": "DAWN NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49208"
+    },
+    {
+      "name": "ABBTAKK NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49209"
+    },
+    {
+      "name": "CAPITAL TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49210"
+    },
+    {
+      "name": "CITY 41",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49212"
+    },
+    {
+      "name": "CITY 42",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49213"
+    },
+    {
+      "name": "ROZE NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49217"
+    },
+    {
+      "name": "KHYBER NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49219"
+    },
+    {
+      "name": "AVT KHYBER",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49220"
+    },
+    {
+      "name": "KTN NEWS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49221"
+    },
+    {
+      "name": "AWAZ TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49222"
+    },
+    {
+      "name": "ROHI TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49223"
+    },
+    {
+      "name": "ARY MUSIK",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49228"
+    },
+    {
+      "name": "8XM ᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49229"
+    },
+    {
+      "name": "RAAVI",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49230"
+    },
+    {
+      "name": "FILMWORLD",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49232"
+    },
+    {
+      "name": "CARTOON NETWORK ᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49236"
+    },
+    {
+      "name": "KIDS ZONE+ᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49237"
+    },
+    {
+      "name": "PTV SPORTS RAW",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49240"
+    },
+    {
+      "name": "PTV SPORTS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49241"
+    },
+    {
+      "name": "GEO SUPER",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49242"
+    },
+    {
+      "name": "CINEMACHI KIDS",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49259"
+    },
+    {
+      "name": "POP Kids ᴴᴰ",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49261"
+    },
+    {
+      "name": "PEACE TV ENGLISH",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49263"
+    },
+    {
+      "name": "WASEEB TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49264"
+    },
+    {
+      "name": "SAUDI SUNNAH TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49265"
+    },
+    {
+      "name": "SAUDI AL QURAN TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49266"
+    },
+    {
+      "name": "AHLEBAIT",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49271"
+    },
+    {
+      "name": "METRO 1",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49273"
+    },
+    {
+      "name": "PEACE TV URDU",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49274"
+    },
+    {
+      "name": "HADI TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49275"
+    },
+    {
+      "name": "MADANI TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49276"
+    },
+    {
+      "name": "MEHRAN TV",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49279"
+    },
+    {
+      "name": "Star Plus ᵁᴴᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49280"
+    },
+    {
+      "name": "Geo News ˢᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49282"
+    },
+    {
+      "name": "PTV Home",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49284"
+    },
+    {
+      "name": "TV One",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49286"
+    },
+    {
+      "name": "APLUS Europe",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49287"
+    },
+    {
+      "name": "Geo Kahani ˢᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49288"
+    },
+    {
+      "name": "Hum Masala ˢᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49291"
+    },
+    {
+      "name": "Samaa TV ˢᴰ*",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49294"
+    },
+    {
+      "name": "Dunya News",
+      "logo": "https://www.shutterstock.com/image-vector/pakistan-flag-button-golden-on-260nw-1138262582.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=49295"
+    }
+  ],
+  "INDIA Channels": [
+    {
+      "name": "COLORS ODIA",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306175"
+    },
+    {
+      "name": "STAR KIRAN",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306176"
+    },
+    {
+      "name": "KALINGA TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306177"
+    },
+    {
+      "name": "ZEE SARTHAK TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306178"
+    },
+    {
+      "name": "SIDDARTH GOLD",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306179"
+    },
+    {
+      "name": "SIDDARTH TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306180"
+    },
+    {
+      "name": "ARGUS NEWS",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306181"
+    },
+    {
+      "name": "PRAMEYA NEWS 7",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306182"
+    },
+    {
+      "name": "TARANG MUSIC",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306183"
+    },
+    {
+      "name": "ALANKAR TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306184"
+    },
+    {
+      "name": "TARANG TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306185"
+    },
+    {
+      "name": "ODISHA TV",
+      "logo": "",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=306186"
+    },
+    {
+      "name": "UTSAV PLUS",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=510907"
+    },
+    {
+      "name": "ZEE CLASSICS",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276904"
+    },
+    {
+      "name": "ZEE ACTION",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276905"
+    },
+    {
+      "name": "ZEE TV ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276906"
+    },
+    {
+      "name": "ZEE CINEMA ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276907"
+    },
+    {
+      "name": "ZING",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276908"
+    },
+    {
+      "name": "STAR BHARAT ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276909"
+    },
+    {
+      "name": "STAR GOLD ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276910"
+    },
+    {
+      "name": "STAR GOLD SELECT ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276911"
+    },
+    {
+      "name": "STAR PLUS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276912"
+    },
+    {
+      "name": "STAR UTSAV",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276913"
+    },
+    {
+      "name": "STAR UTSAV MOVIES",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276914"
+    },
+    {
+      "name": "SONY ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276915"
+    },
+    {
+      "name": "SONY MAX ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276916"
+    },
+    {
+      "name": "SONY MAX 2",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276917"
+    },
+    {
+      "name": "SONY PIX ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276918"
+    },
+    {
+      "name": "SONY BBC EARTH ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276919"
+    },
+    {
+      "name": "SONY SAB ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276920"
+    },
+    {
+      "name": "SONY PAL",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276921"
+    },
+    {
+      "name": "SONY WAH",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276922"
+    },
+    {
+      "name": "SONY YAY",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276923"
+    },
+    {
+      "name": "B4U MOVIES",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276924"
+    },
+    {
+      "name": "COLORS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276925"
+    },
+    {
+      "name": "9X JALWA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276926"
+    },
+    {
+      "name": "AAJ TAK ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276927"
+    },
+    {
+      "name": "AAJ TAK TEZ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276928"
+    },
+    {
+      "name": "ZOOM TV ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276929"
+    },
+    {
+      "name": "AASTHA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276930"
+    },
+    {
+      "name": "AASTHA BHAJAN",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276931"
+    },
+    {
+      "name": "ABP NEWS INDIA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276932"
+    },
+    {
+      "name": "AND PICTURES ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276933"
+    },
+    {
+      "name": "& TV ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276934"
+    },
+    {
+      "name": "ANIMAL PLANET ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276935"
+    },
+    {
+      "name": "ARIHANT",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276936"
+    },
+    {
+      "name": "BABY TV ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276937"
+    },
+    {
+      "name": "BIG MAGIC ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276938"
+    },
+    {
+      "name": "CINEPLEX ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276940"
+    },
+    {
+      "name": "DD NATIONAL ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276942"
+    },
+    {
+      "name": "DD RAJASTHAN",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276943"
+    },
+    {
+      "name": "DD BHARATI",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276944"
+    },
+    {
+      "name": "DD BIHAR",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276945"
+    },
+    {
+      "name": "DD INDIA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276946"
+    },
+    {
+      "name": "DD NEWS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276947"
+    },
+    {
+      "name": "DD SPORTS",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276948"
+    },
+    {
+      "name": "DD URDU",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276950"
+    },
+    {
+      "name": "DD BHARTI",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276952"
+    },
+    {
+      "name": "DISCOVERY WORLD ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276953"
+    },
+    {
+      "name": "E 24",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276954"
+    },
+    {
+      "name": "ENTER 10 MOVIES",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276955"
+    },
+    {
+      "name": "EPIC ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276956"
+    },
+    {
+      "name": "FOX LIFE ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276957"
+    },
+    {
+      "name": "HISTORY TV18 ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276958"
+    },
+    {
+      "name": "LIVING FOODZ ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276964"
+    },
+    {
+      "name": "MINIPLEX ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276965"
+    },
+    {
+      "name": "MOVIES ACTIVE",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276966"
+    },
+    {
+      "name": "MTV BEATS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276967"
+    },
+    {
+      "name": "MTV PLUS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276968"
+    },
+    {
+      "name": "MUSIC INDIA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276969"
+    },
+    {
+      "name": "NAT GEO WILD ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276970"
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276971"
+    },
+    {
+      "name": "NEWS 18 ASSAM",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276972"
+    },
+    {
+      "name": "NEWS 18 INDIA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276974"
+    },
+    {
+      "name": "NEWS 18 RAJASTHAN",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276975"
+    },
+    {
+      "name": "NEWS NATION",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276976"
+    },
+    {
+      "name": "REPUBLIC TV",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276978"
+    },
+    {
+      "name": "NICK PLUS ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276979"
+    },
+    {
+      "name": "PARAS TV",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276980"
+    },
+    {
+      "name": "PEACE OF MIND ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276981"
+    },
+    {
+      "name": "MAHA MOVIES",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276982"
+    },
+    {
+      "name": "TATA SKY THEATRE FHD",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276984"
+    },
+    {
+      "name": "UTV ACTION",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276985"
+    },
+    {
+      "name": "UTV ᴴᴰ",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276986"
+    },
+    {
+      "name": "VEDIC TV",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276987"
+    },
+    {
+      "name": "ZEE ANMOL",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276989"
+    },
+    {
+      "name": "ZEE ANMOL CINEMA",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276990"
+    },
+    {
+      "name": "ZEE HINDUSTAN NEWS",
+      "logo": "https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=276991"
+    }
+  ],
+  "PUNJABI Channels": [
+    {
+      "name": "UK| KTV INDIA",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277250"
+    },
+    {
+      "name": "CHARDIKLA TIMES TV",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277251"
+    },
+    {
+      "name": "DD PUNJABI",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277252"
+    },
+    {
+      "name": "HUNGAMA AMRITVANI ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277253"
+    },
+    {
+      "name": "INDIA NEWS PUNJAB",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277254"
+    },
+    {
+      "name": "MANORANJAN MOVIES",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277255"
+    },
+    {
+      "name": "MANORANJAN TV",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277256"
+    },
+    {
+      "name": "MH1 MUSIC",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277257"
+    },
+    {
+      "name": "MH1 NEWS",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277258"
+    },
+    {
+      "name": "MH1 SHRADDHA",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277259"
+    },
+    {
+      "name": "NEWS 18 PUNJAB HARYANA",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277260"
+    },
+    {
+      "name": "PITAARA TV",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277261"
+    },
+    {
+      "name": "PRIME ASIA ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277262"
+    },
+    {
+      "name": "PTC CHAKDE",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277263"
+    },
+    {
+      "name": "PTC NEWS",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277264"
+    },
+    {
+      "name": "PTC PUNJABI",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277265"
+    },
+    {
+      "name": "SANJHA TV ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277266"
+    },
+    {
+      "name": "SSTV ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277267"
+    },
+    {
+      "name": "ZEE PUNJAB HARYANA ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277268"
+    },
+    {
+      "name": "ZEE PUNJABI",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277269"
+    },
+    {
+      "name": "MAHA",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277270"
+    },
+    {
+      "name": "TATA SKY PUNJAB DE RANG",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277271"
+    },
+    {
+      "name": "FATEH TV",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277272"
+    },
+    {
+      "name": "JUS ONE",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277273"
+    },
+    {
+      "name": "BRIT ASIA",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277274"
+    },
+    {
+      "name": "CHARDIKALAH TIMES TV",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277275"
+    },
+    {
+      "name": "AIKAM TV ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277276"
+    },
+    {
+      "name": "DESI CHANNEL",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277277"
+    },
+    {
+      "name": "PCHS TV ᴴᴰ",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277278"
+    },
+    {
+      "name": "LIVING INDIA NEWS",
+      "logo": "https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-india.png",
+      "url": "https://allinonereborn.online/mix.m3u8/live478.php?id=277279"
+    }
+  ]
+}
